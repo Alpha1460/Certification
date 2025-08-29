@@ -3,8 +3,7 @@
 
 ## Data Science
 - IBM Data Science Professional Certificate  
-  ![Certificate Image](link-to-image-or-upload-file)
-  [View Certificate](link-to-online-certificate)
+  [![View Certificate](link-to-image-or-upload-file)](https://github.com/Alpha1460/Certification/blob/main/IELTS%208.0%20(International%20English%20Language%20Testing%20System).pdf)
 
 ## Language & Tests
 
